@@ -18,3 +18,15 @@ jika kalian baru menginstall termux
 14. lalu setelah selesai anda tekan enter dan dibawa ke menu bahasa setelah itu ketik 1 atau 2
 15. dan masuk ke menu tool lagi pilih nomer 8 dan masukan password yang telah tertera di layar
 16. happy ending script sudah berjalan silahkan tinggal tidur
+
+
+JIKA ADA YANG INGIN DITANYAKAN SILAHKAN HUBUNGI SAYA VIA TELEGRAM
+https://t.me/MrShiroBLT
+( SALAM PROFIT ANDA SENANG SAYA JUGA SENANG JANGAN LUPA JOIN KE TELEGRAM GROUP DAN TELEGRAM CHANNEL SAYA )
+https://t.me/Official_RGBCommunity
+https://t.me/RGBC_info
+
+https://t.me/CryptoExOr
+https://t.me/CryptoExOrChanel
+
+IKUTI SEMUA AIRDROP YANG SAYA POST KARNA SUDAH TERJAMIN 87% LANDING
