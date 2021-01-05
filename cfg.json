@@ -1,0 +1,14 @@
+#Kalau Gak Mau di isi juga gppa paling WD nya gatau kemana :v
+#Isikan LTC saja boleh kalau niatnya nuyul LTC
+#Isikan DOGE saja boleh kalau niatnya nuyul DOGE
+#Isikan Zec saja boleh kalau niatnya nuyul Zec
+#Isikan BCH saja boleh kalau niatnya nuyul BCH
+#Isikan BTC saja boleh kalau niatnya nuyul BTC
+
+{
+  "walletltc": "WalletMu",
+  "walletdoge": "WalletMu",
+  "walletzec": "WalletMu",
+  "walletbch": "WalletMu",
+  "walletbtc": "WalletMu"
+}
